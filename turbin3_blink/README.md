@@ -1,6 +1,6 @@
 # turbin3-blink
 
-This project is generated with the [create-solana-dapp](https://github.com/solana-developers/create-solana-dapp) generator.
+![turbinBlink](https://github.com/user-attachments/assets/5f42ac82-f869-443a-85a9-e4b22ff40659)
 
 ## Getting Started
 
